@@ -14,12 +14,6 @@ Before starting, ensure the following are installed:
 - `pip` for Python package installation
 - GPU (recommended for faster embedding generation)
 
-## Setup
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-
 ## Install dependencies:
 pip install torch transformers datasets nltk numpy matplotlib tqdm
 
